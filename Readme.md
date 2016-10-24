@@ -2,6 +2,9 @@
 
 > A List of popular dj's
 
+## Frameworks Used
+- Angularjs
+
 
 ## Assets Installed By Default
 
