@@ -1,6 +1,14 @@
 // Put any @imports here
 // See Readme for a list of supported ones
 
+@import 'font-awesome';
+
+$crimson: #E61B39;
+
 body {
-  background: #e2ebf3;
+  background: #FFF;
+
+  h1 {
+    color: $crimson;
+  }
 }
